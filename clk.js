@@ -16,4 +16,4 @@ function clickButton() {
   }
 }
 
-setInterval(clickButton, 10000); // Run clickButton() every 60 seconds
+setInterval(clickButton, 10000); // Run clickButton() every 10 seconds
